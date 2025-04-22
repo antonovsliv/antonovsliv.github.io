@@ -1,0 +1,7 @@
+# robots.txt for antonovsliv.site
+
+User-agent: *
+Disallow:
+
+Sitemap: https://antonovsliv.site/sitemap.xml
+Host: antonovsliv.site
