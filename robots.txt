@@ -4,4 +4,3 @@ User-agent: *
 Disallow:
 
 Sitemap: https://antonovsliv.site/sitemap.xml
-Host: antonovsliv.site
